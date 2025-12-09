@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Psychase98
 - 👀 I’m interested in Watching animes, Playing games
-- 🌱 I’m currently learning Full Stack Python 
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kysiddhant1998@gmail.com
 
